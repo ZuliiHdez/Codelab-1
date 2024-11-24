@@ -32,14 +32,6 @@
 - Ejecutar un programa Kotlin en un entorno de desarrollo.
 
 ---
-  
-## **Ejercicios Adicionales**
-
-- Implementa una función que calcule el área de un círculo dado su radio.
-- Declara una variable inmutable para almacenar tu edad y mutable para tu ciudad de residencia. Cambia el valor de la ciudad y muestra ambos datos.
-- Escribe un programa que acepte dos números como entrada y devuelva el mayor de ellos.
-
----
 
 ## Nota Cuestionario Codelab
 
